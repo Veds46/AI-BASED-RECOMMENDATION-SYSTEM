@@ -21,6 +21,7 @@ This task provides a hands-on opportunity to explore the fundamentals of machine
 
 #OUTPUT#:
 
+![Image](https://github.com/user-attachments/assets/5d9bae09-00a3-43ad-a0c0-45c28f095e8b)
 
 
 
